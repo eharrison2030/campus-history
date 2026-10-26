@@ -1,10 +1,10 @@
 ---
 # Change these five lines as soon as you copy this starter.
-title: Your Essay Title
-author: Your Name
-category: Starter Essay                  # change to a category from the student guide
-header-image: sample-archive-photo.jpg   # the filename of your own image
-header-caption: Replace with where your header image came from. Plain text only, no links.
+title: Clark Hall
+author: Emory Harrison
+category: Academic Building                 # change to a category from the student guide
+header-image: Clark-hall-building.jpg  # the filename of your own image
+header-caption: UNM Digital Collections
 
 # Fill these in later, once your research is under way.
 card-description: Replace this with two sentences that summarize the story your essay tells and why it matters.
